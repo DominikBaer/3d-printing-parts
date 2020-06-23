@@ -6,6 +6,6 @@
  [<img src="images/IMG_7560.jpeg" width="250"/>](image.png)
  [<img src="images/IMG_7561.jpeg" width="250"/>](image.png)
  
- Download this *[STL-File](stl/HutschienenadatpterV3 v3.stl)*.
+ Download this *[STL-File](stl/HutschienenadatpterV3.stl)*.
 
 
